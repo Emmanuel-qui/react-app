@@ -12,9 +12,9 @@
 - Abre la terminal, cambiar el directorio de trabajo actual a la ubicación en donde quieres clonar el directorio.
 - Escribe git clone y pega la dirección URL que copiaste en el paso 3, presiona Enter para crear el clon local.
 - ` git clone https://github.com/nombreUsuario/nombreProyecto.git `
-- 6. Entra al directorio del proyecto utilizando el comando cd.
+- Entra al directorio del proyecto utilizando el comando cd.
 - ` cd nombreProyecto `
-- 7. Utiliza el comando npm install para instalar las dependencias del proyecto. Asegúrate de tener Node.js y npm instalados en tu máquina.
+- Utiliza el comando npm install para instalar las dependencias del proyecto. Asegúrate de tener Node.js y npm instalados en tu máquina.
 - ` npm install `
-- 8. Una vez que todas las dependencias estén instaladas, puedes iniciar la aplicación utilizando el comando:
+- Una vez que todas las dependencias estén instaladas, puedes iniciar la aplicación utilizando el comando:
 - ` npm run dev `
