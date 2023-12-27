@@ -1,10 +1,7 @@
 import { Link } from 'react-router-dom';
-import usePokemons from '../hooks/usePokemons'
 
 
 const Pokemon = ({ pokemon }) => {
-
-	const { getPokemon } = usePokemons() 
 
 	const { name } = pokemon
 
